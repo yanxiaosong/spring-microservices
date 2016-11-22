@@ -1,7 +1,463 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="026aa412-908e-4db7-a9f2-2ac4af6f2a55" name="Default" comment="" />
+    <list default="true" id="026aa412-908e-4db7-a9f2-2ac4af6f2a55" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/main/java/org/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/main/java/org/rvslab/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/main/java/org/rvslab/chapter2/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/test/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/test/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/test/java/org/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/test/java/org/rvslab/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boot-advanced/src/test/java/org/rvslab/chapter2/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootactuator/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootactuator/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootactuator/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootactuator/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootactuator/src/main/java/org/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootactuator/src/main/java/org/rvslab/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootactuator/src/main/java/org/rvslab/actuator/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomer/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomer/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomer/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomer/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomer/src/main/java/org/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomer/src/main/java/org/rvslab/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomer/src/main/java/org/rvslab/customer/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootcustomernotifcation/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.boothateoas/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/src/main/java/org/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/src/main/java/org/rvslab/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/src/main/java/org/rvslab/chapter2/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootmessaging/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.bootrest/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/chapter2.swagger/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/__MACOSX/legacyrest/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boot-advanced/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boot-advanced/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boot-advanced/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boot-advanced/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootactuator/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootactuator/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootactuator/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootactuator/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomer/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomer/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomer/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomer/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomernotifcation/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomernotifcation/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomernotifcation/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootcustomernotifcation/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boothateoas/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boothateoas/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boothateoas/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.boothateoas/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootmessaging/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootmessaging/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootmessaging/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootmessaging/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootrest/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootrest/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootrest/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.bootrest/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.swagger/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.swagger/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.swagger/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/chapter2.swagger/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/legacyrest/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 2/legacyrest/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.book/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.checkin/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.fares/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.search/src/main/java/com/brownfield/pss/search/component/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/java/com/brownfield/pss/client/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/resources/static/css/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/__MACOSX/chapter4.website/src/main/resources/templates/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.book/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.book/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.book/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.book/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.checkin/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.checkin/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.checkin/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.checkin/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.fares/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.fares/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.fares/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.fares/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.search/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.search/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.search/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.search/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.website/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.website/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.website/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 4/chapter4.website/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/main/java/com/brownfield/pss/book/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.book/src/main/java/com/brownfield/pss/book/component/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.configserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.eurekaserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.eurekaserver/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.eurekaserver/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.eurekaserver/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/main/java/com/brownfield/pss/fares/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.fares-apigateway/src/main/java/com/brownfield/pss/fares/apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search-apigateway/src/main/java/com/brownfield/pss/search/apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/java/com/brownfield/pss/search/component/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/java/com/brownfield/pss/search/controller/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.search/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/java/com/brownfield/pss/client/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/resources/static/css/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/chapter5.website/src/main/resources/templates/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/config-repo/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.book/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.checkin/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.configserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.configserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.configserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.configserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.eurekaserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.eurekaserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.eurekaserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.eurekaserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.fares/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.search/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.website/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.website/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.website/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/chapter5.website/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6-config-repo/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.sampleservice/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.sampleservice/target/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search-apigateway/src/main/java/com/brownfield/pss/search/apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/java/com/brownfield/pss/search/component/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/java/com/brownfield/pss/search/controller/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.search/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/java/com/brownfield/pss/client/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/resources/static/css/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/__MACOSX/chapter6.website/src/main/resources/templates/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.configserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.configserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.configserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.configserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.eurekaserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.eurekaserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.eurekaserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.eurekaserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.lifecyclemanager/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.lifecyclemanager/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.lifecyclemanager/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.lifecyclemanager/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.sampleservice/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.sampleservice/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.sampleservice/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.sampleservice/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.search/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.website/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.website/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.website/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6.website/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.configserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.eurekaserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.eurekaserver/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.eurekaserver/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.eurekaserver/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search-apigateway/src/main/java/com/brownfield/pss/search/apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/java/com/brownfield/pss/search/component/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/java/com/brownfield/pss/search/controller/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.search/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/java/com/brownfield/pss/client/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/resources/static/css/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/chapter7.website/src/main/resources/templates/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/__MACOSX/config-repo-new/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.configserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.configserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.configserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.configserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.eurekaserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.eurekaserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.eurekaserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.eurekaserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.hystrixdashboard/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.hystrixdashboard/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.hystrixdashboard/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.hystrixdashboard/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.search/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.turbineServer/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.turbineServer/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.turbineServer/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.turbineServer/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.website/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.website/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.website/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 7/chapter7.website/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.configserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.eurekaserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.eurekaserver/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.eurekaserver/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.eurekaserver/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search-apigateway/src/main/java/com/brownfield/pss/search/apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/java/com/brownfield/pss/search/component/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/java/com/brownfield/pss/search/controller/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.search/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/java/com/brownfield/pss/client/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/resources/static/css/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/chapter8.website/src/main/resources/templates/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/__MACOSX/config-repo-ch8/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.configserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.configserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.configserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.configserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.eurekaserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.eurekaserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.eurekaserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.eurekaserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.search/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.website/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.website/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.website/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 8/chapter8.website/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.configserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.eurekaserver/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.eurekaserver/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.eurekaserver/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.eurekaserver/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search-apigateway/src/main/java/com/brownfield/pss/search/apigateway/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/java/com/brownfield/pss/search/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/java/com/brownfield/pss/search/component/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/java/com/brownfield/pss/search/controller/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.search/src/main/resources/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/java/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/java/com/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/java/com/brownfield/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/java/com/brownfield/pss/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/java/com/brownfield/pss/client/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/resources/static/css/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/__MACOSX/chapter9.website/src/main/resources/templates/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.configserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.configserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.configserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.configserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.eurekaserver/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.eurekaserver/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.eurekaserver/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.eurekaserver/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search-apigateway/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search-apigateway/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search-apigateway/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search-apigateway/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.search/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.website/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.website/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.website/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Chapter 9/chapter9.website/.project" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config-repo" afterPath="$PROJECT_DIR$/config-repo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chapter 6/chapter6-config-repo" afterPath="$PROJECT_DIR$/../Chapter 6/chapter6-config-repo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chapter 7/config-repo-new" afterPath="$PROJECT_DIR$/../Chapter 7/config-repo-new" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chapter 8/config-repo-ch8" afterPath="$PROJECT_DIR$/../Chapter 8/config-repo-ch8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="pss-parent.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,8 +492,8 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter5.website/src/main/java/com/brownfield/pss/client/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="45" column="71" selection-start-line="45" selection-start-column="71" selection-end-line="45" selection-end-column="71" />
+            <state relative-caret-position="360">
+              <caret line="53" column="77" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
               <folding>
                 <element signature="e#3068#3069#0" expanded="true" />
                 <element signature="e#3109#3110#0" expanded="true" />
@@ -138,6 +594,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -170,7 +629,7 @@
     <option name="width" value="1855" />
     <option name="height" value="933" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -346,150 +805,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pss-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter5.search-apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pss-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter5.search-apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pss-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter5.search-apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pss-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter5.search-apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pss-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter5.search-apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SearchApiGateway.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pss-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter5.search-apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apigateway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -502,6 +817,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Spring Boot.EurekaserverApplication-Server2">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -1024,12 +1341,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479840042700</updated>
-      <workItem from="1479840044169" duration="9029000" />
+      <workItem from="1479840044169" duration="10330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9029000" />
+    <option name="totallyTimeSpent" value="10330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="933" extended-state="6" />
@@ -1042,7 +1359,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35216346" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35301206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1313,8 +1630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter5.website/src/main/java/com/brownfield/pss/client/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="45" column="71" selection-start-line="45" selection-start-column="71" selection-end-line="45" selection-end-column="71" />
+        <state relative-caret-position="360">
+          <caret line="53" column="77" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
           <folding>
             <element signature="e#3068#3069#0" expanded="true" />
             <element signature="e#3109#3110#0" expanded="true" />
