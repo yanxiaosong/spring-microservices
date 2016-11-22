@@ -1,0 +1,9 @@
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/entity/Flight.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/entity/Fares.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/component/SearchComponent.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/component/Receiver.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/controller/SearchRestController.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/repository/FlightRepository.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/Application.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/controller/SearchQuery.java
+/home/alan/IdeaProjects/complete/SpringMicroservices_Code/Chapter 5/chapter5.search/src/main/java/com/brownfield/pss/search/entity/Inventory.java

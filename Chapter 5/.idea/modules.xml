@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter5.book/book.iml" filepath="$PROJECT_DIR$/chapter5.book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.book-apigateway/book-apigateway.iml" filepath="$PROJECT_DIR$/chapter5.book-apigateway/book-apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.checkin/checkin.iml" filepath="$PROJECT_DIR$/chapter5.checkin/checkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.checkin-apigateway/checkin-apigateway.iml" filepath="$PROJECT_DIR$/chapter5.checkin-apigateway/checkin-apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.configserver/config-server.iml" filepath="$PROJECT_DIR$/chapter5.configserver/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.eurekaserver/eureka-server.iml" filepath="$PROJECT_DIR$/chapter5.eurekaserver/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.fares/fares.iml" filepath="$PROJECT_DIR$/chapter5.fares/fares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.fares-apigateway/fares-apigateway.iml" filepath="$PROJECT_DIR$/chapter5.fares-apigateway/fares-apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pss-parent.iml" filepath="$PROJECT_DIR$/pss-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.search/search.iml" filepath="$PROJECT_DIR$/chapter5.search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.search-apigateway/search-apigateway.iml" filepath="$PROJECT_DIR$/chapter5.search-apigateway/search-apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5.website/website.iml" filepath="$PROJECT_DIR$/chapter5.website/website.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+com/brownfield/pss/search/apigateway/SearchApiGateway.class
+com/brownfield/pss/search/apigateway/SearchAPIGatewayController.class
+com/brownfield/pss/search/apigateway/CustomZuulFilter.class

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chapter5.book" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.book-apigateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.checkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.checkin-apigateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.fares" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.fares-apigateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.search-apigateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5.website" charset="UTF-8" />
+  </component>
+</project>

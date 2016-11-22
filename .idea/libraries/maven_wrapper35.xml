@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-wrapper35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Chapter 7/chapter7.search/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
